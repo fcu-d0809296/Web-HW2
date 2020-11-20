@@ -1,8 +1,25 @@
 body {
   margin: 0;
   padding: 0;
+  
 }
-
+#shop-title-div {
+  background-color: #99000f;
+}
 #shop-title-h1 {
+  font-family: "Microsoft JhengHei", monospace, sans-serif;
+  text-align: center;
+  color: white;
   margin: 0;
+  padding: 10px;
+}
+#item-table img {
+  width: 300px;
+  border: gray solid 1px;
+  margin: 10px;
+  padding: 10px;
+}
+table#item-table {
+  margin-left: auto;
+  margin-right: auto;
 }
